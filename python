@@ -1,5 +1,5 @@
 #include<studio.h>
-voidmain()
+int main()
 {
 print("hello my world")
 }
